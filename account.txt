@@ -5,8 +5,8 @@
     "domain": "facebook.com",
     "path": "/",
     "hostOnly": false,
-    "creation": "2024-09-06T13:45:05.784Z",
-    "lastAccessed": "2024-09-06T13:45:11.072Z"
+    "creation": "2024-09-10T12:22:14.662Z",
+    "lastAccessed": "2024-09-10T12:22:17.719Z"
   },
   {
     "key": "c_user",
@@ -14,8 +14,8 @@
     "domain": "facebook.com",
     "path": "/",
     "hostOnly": false,
-    "creation": "2024-09-06T13:45:05.873Z",
-    "lastAccessed": "2024-09-06T13:45:11.072Z"
+    "creation": "2024-09-10T12:22:14.688Z",
+    "lastAccessed": "2024-09-10T12:22:17.719Z"
   },
   {
     "key": "datr",
@@ -23,8 +23,8 @@
     "domain": "facebook.com",
     "path": "/",
     "hostOnly": false,
-    "creation": "2024-09-06T13:45:05.883Z",
-    "lastAccessed": "2024-09-06T13:45:11.072Z"
+    "creation": "2024-09-10T12:22:14.690Z",
+    "lastAccessed": "2024-09-10T12:22:17.719Z"
   },
   {
     "key": "sb",
@@ -32,8 +32,8 @@
     "domain": "facebook.com",
     "path": "/",
     "hostOnly": false,
-    "creation": "2024-09-06T13:45:05.886Z",
-    "lastAccessed": "2024-09-06T13:45:11.072Z"
+    "creation": "2024-09-10T12:22:14.692Z",
+    "lastAccessed": "2024-09-10T12:22:17.719Z"
   },
   {
     "key": "fr",
@@ -41,6 +41,6 @@
     "domain": "facebook.com",
     "path": "/",
     "hostOnly": false,
-    "creation": "2024-09-06T13:45:05.889Z",
-    "lastAccessed": "2024-09-06T13:45:11.072Z"
+    "creation": "2024-09-10T12:22:14.693Z",
+    "lastAccessed": "2024-09-10T12:22:17.719Z"
   }
